@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/3904-smallest-stable-index-ii) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
