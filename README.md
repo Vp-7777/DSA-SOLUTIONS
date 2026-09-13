@@ -25,4 +25,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
