@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0016-3sum-closest) |
 | [0219-contains-duplicate-ii](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
@@ -38,4 +39,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0002-add-two-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0016-3sum-closest) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
