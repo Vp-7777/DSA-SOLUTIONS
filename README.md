@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0183-customers-who-never-order) |
 | [0577-employee-bonus](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0577-employee-bonus) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0595-big-countries](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0607-sales-person) |
 ## Hash Table
 |  |
