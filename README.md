@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0018-4sum) |
 | [0090-subsets-ii](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0090-subsets-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/3904-smallest-stable-index-ii) |
@@ -48,10 +49,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0018-4sum) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0016-3sum-closest) |
+| [0018-4sum](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0018-4sum) |
 ## Greedy
 |  |
 | ------- |
