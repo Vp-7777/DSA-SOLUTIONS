@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0018-4sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0090-subsets-ii](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0090-subsets-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/3904-smallest-stable-index-ii) |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
