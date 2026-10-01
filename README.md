@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0090-subsets-ii](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0090-subsets-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
+| [1470-shuffle-the-array](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/1929-concatenation-of-array) |
 | [3904-smallest-stable-index-ii](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/3904-smallest-stable-index-ii) |
 ## Prefix Sum
