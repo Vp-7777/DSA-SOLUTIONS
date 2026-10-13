@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0018-4sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0033-search-in-rotated-sorted-array) |
 | [0090-subsets-ii](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0090-subsets-ii) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0219-contains-duplicate-ii](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0219-contains-duplicate-ii) |
 | [0485-max-consecutive-ones](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/1470-shuffle-the-array) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0011-container-with-most-water) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Backtracking
 |  |
 | ------- |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0023-merge-k-sorted-lists) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Vp-7777/DSA-SOLUTIONS/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
